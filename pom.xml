@@ -25,6 +25,7 @@
             <version>5.1.30</version>
         </dependency>
   </dependencies>
+  <build>
   <plugins>
      <plugin>
                 <groupId>org.jfrog.buildinfo</groupId>
@@ -71,7 +72,6 @@
                 </executions>
             </plugin>
   </plugins>
-  <build>
     <finalName>LoginWebApp</finalName>
   </build>
 </project>
