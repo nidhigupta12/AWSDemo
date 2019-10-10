@@ -67,7 +67,7 @@
                                 <timeoutSec>60</timeoutSec>
                             </artifactory>
                             <publisher>
-                                <contextUrl>http://localhost:8081/artifactory</contextUrl>
+                                <contextUrl>http://192.168.0120:8081/artifactory</contextUrl>
                                 <username>admin</username>
                                 <password>password</password>
                                 <repoKey>jenkins-release</repoKey>
